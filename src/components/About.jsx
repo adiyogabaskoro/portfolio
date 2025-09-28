@@ -10,9 +10,9 @@
             yang menjadikan saya mudah beradaptasi, berinteraksi, dan berkomunikasi dengan orang baru. Saya dikenal sebagai pribadi yang akrab, mudah bekerja sama, 
             serta berkomitmen untuk mencapai tujuan bersama dengan niat dan arah yang jelas.
         </p>
-        <p>Saya lahir di Semarang, 29 Juli 2008. Saya merupakan anak terakhir dari 
+        <p>Saya lahir di Semarang. Saya merupakan anak terakhir dari 
             3 bersaudara dan memiliki 2 orang kakak prempuan. 
-            Dan hingga saat ini saya masih tinggal bersama orang tua di Semarang, Jalan Gemah Kencana IV / 11.
+            Dan hingga saat ini saya masih tinggal bersama orang tua di Semarang.
         </p>
         <p>
             Selain itu saya di sekolah juga mengikuti organisasi, Saat ini saya sedang menjabat menjadi 
