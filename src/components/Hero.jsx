@@ -7,7 +7,7 @@
         <div className="overlay"></div>
         <div className="hero-content">
             <h1>Adiyoga<span className="highlight"> A Baskoro</span></h1>
-            <p>Web Developer</p>
+            <p>Siswa Jurusan SIJA SMK Negeri 7 Semarang</p>
             <div className="social-icons">
             <a href="#"><FaInstagram /></a>
             <a href="#"><FaLinkedin /></a>

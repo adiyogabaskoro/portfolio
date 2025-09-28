@@ -1,22 +1,9 @@
     import React from "react";
 
-    function Works() {
-    const skills = [
-        { name: "Photoshop", level: 90 },
-        { name: "Illustrator", level: 80 },
-        { name: "InDesign", level: 70 },
-        { name: "After Effects", level: 60 },
-    ];
-
-    const projects = [
-        { title: "Project One", img: "/p1.jpg" },
-        { title: "Project Two", img: "/p2.jpg" },
-        { title: "Project Three", img: "/p3.jpg" },
-    ];
-
+    function Works({ skills, projects }) {
     return (
         <div className="works">
-        <h2>Portfolio & Resume</h2>
+        <h2>Portfolio & Experience</h2>
 
         {/* Resume / Skills */}
         <div className="resume-grid">
@@ -38,10 +25,12 @@
             <div className="experience">
             <h3>Experience</h3>
             <ul>
-                <li><strong>Art Director</strong> - White Fish Advertising Co.</li>
-                <li><strong>Senior Graphic Designer</strong> - Pyramid Sun Advertising Co.</li>
-                <li><strong>Graphic Designer</strong> - Planet Stationary & Printing</li>
-                <li><strong>Graphic Designer</strong> - Paly Graphic Advertising Agency</li>
+                <li><strong>Juara Umum LKBB LOPTASIKU 8</strong> - UDINUS</li>
+                <li><strong>Juara Utama 2 GAPAKSI v</strong> - SMA Negeri 4 Semarang</li>
+                <li><strong>Juara Utama 2 LKBB Panglima TNI</strong> - AKPELNI</li>
+                <li><strong>Juara Umum LKBB Porsimaptar</strong> - Akademi Kepolisian</li>
+                <li><strong>IT Essentials</strong> - Cisco Networking Academy</li>
+                <li><strong>AI Upskilling Program</strong> - Remote Skill Academy</li>
             </ul>
             </div>
         </div>
