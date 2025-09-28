@@ -30,12 +30,12 @@ function App() {
   ];
 
   const projects = [
-    { title: "Project Kelompok Web", img: "src/assets/1.png" },
-    { title: "GAPAKSI V", img: "src/assets/2.jpg" },
-    { title: "PORSIMAPTAR", img: "src/assets/3.jpg" },
-    { title: "Sertifikat", img: "src/assets/4.png" },
-    { title: "Sertifikat", img: "src/assets/5.png" },
-    { title: "LOPTASIKU 8", img: "src/assets/6.jpg" },
+    { title: "Project Kelompok Web", img: "https://github.com/adiyogabaskoro/portfolio/blob/main/public/images/1.png" },
+    { title: "GAPAKSI V", img: "https://github.com/adiyogabaskoro/portfolio/blob/main/public/images/2.jpg" },
+    { title: "PORSIMAPTAR", img: "https://github.com/adiyogabaskoro/portfolio/blob/main/public/images/3.jpg" },
+    { title: "Sertifikat", img: "https://github.com/adiyogabaskoro/portfolio/blob/main/public/images/4.png" },
+    { title: "Sertifikat", img: "https://github.com/adiyogabaskoro/portfolio/blob/main/public/images/5.png" },
+    { title: "LOPTASIKU 8", img: "https://github.com/adiyogabaskoro/portfolio/blob/main/public/images/6.jpg" },
   ];
 
 
